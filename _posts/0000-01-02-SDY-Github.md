@@ -2,5 +2,5 @@
 layout : slide
 title : "Welcome to our second slide!"
 ---
-Your text (SDY-Github)
+This is my **NEW** *line 5* with **Markdown**. [Link to Markdown!](https://guides.github.com/features/mastering-markdown/)
 Use the left arrow to go back!
